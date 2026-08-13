@@ -2,15 +2,18 @@
 
 
 *{
-    margin: 0px;
-    padding: 0px;
-    
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: Roboto;
 }
 
-:root {
-  /* Cores Principais - Natureza e Aventura */
-  --cor-primaria: #2e5a44;
-  --cor-secundaria: #556b2f;
-  --marrom-terra: #8b5a2b;
-  --bege-areia: #f4f1ea;
+:root{
+  --cor-primaria: #92400E;
+  --cor-secundaria: #0369A1;
+  --branca:#ffffff;
+  --cor-botao1: #0369A1;
+  --cor-botao2: #F97316;
+  --cor01: #166534;
+  --cor02: #FACC15;
 }
